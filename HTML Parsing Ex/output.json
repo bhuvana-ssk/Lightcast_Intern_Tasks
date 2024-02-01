@@ -1,0 +1,8 @@
+{
+  "title": "HTML to JSON",
+  "body_content": [
+    "Fruits",
+    "Here is the list of fruits available today.",
+    "\nApple\nOrange\nGrapes\nBanana\nMango\nStrawberry\nPineapple\n"
+  ]
+}
